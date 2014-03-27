@@ -1,0 +1,7 @@
+name: AutoTP
+version: 1.2
+description: Anti Griefing Plugin, auto teleports you to griefer.
+author:
+    BeerHuntor
+website: http://www.beercraftmc.enjin.com
+main: me.BeerHuntor.AutoTP.AutoTP
